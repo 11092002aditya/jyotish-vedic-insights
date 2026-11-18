@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "Jyotish — Vedic Insights",
+  "short_name": "Jyotish",
+  "description": "Free bilingual Vedic astrology insights, Kundli, Panchang and horoscope matching.",
+  "lang": "en-IN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17130f",
+  "theme_color": "#17130f",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
